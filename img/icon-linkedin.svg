@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="23px" version="1.1" viewBox="0 0 24 23">
+<!--Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch-->
+    <title>
+        Shape
+    </title>
+    <desc>
+        Created by Kiko Estrada.
+    </desc>
+    <defs/>
+    <g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+        <g id="Desktop" fill="#FFFFFF" fill-rule="nonzero" transform="translate(-1888.000000, -4826.000000)">
+            <g id="Footer" transform="translate(-405.000000, 4738.000000)">
+                <g id="Group-26" transform="translate(2293.000000, 88.000000)">
+                    <g id="Copyright">
+                        <g id="Social">
+                            <path id="Shape" d="M4.98,2.5 C4.98,3.881 3.87,5 2.5,5 C1.13,5 0.02,3.881 0.02,2.5 C0.02,1.12 1.13,0 2.5,0 C3.87,0 4.98,1.12 4.98,2.5 Z M5,7 L0,7 L0,23 L5,23 L5,7 Z M12.982,7 L8.014,7 L8.014,23 L12.983,23 L12.983,14.601 C12.983,9.931 19.012,9.549 19.012,14.601 L19.012,23 L24,23 L24,12.869 C24,4.989 15.078,5.276 12.982,9.155 L12.982,7 Z"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
