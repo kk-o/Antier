@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="132px" viewBox="0 0 132 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-prev</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="132" height="132" rx="66"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-2696.000000, -1411.000000)">
+            <g id="icon-prev" transform="translate(2762.000000, 1477.000000) scale(-1, 1) translate(-2762.000000, -1477.000000) translate(2696.000000, 1411.000000)">
+                <g id="Rectangle-12">
+                    <use fill="#080708" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#E6D30C" stroke-width="2" x="1" y="1" width="130" height="130" rx="65"></rect>
+                </g>
+                <polygon id="Shape" fill="#E6D30C" fill-rule="nonzero" points="76.7588234 52.28125 73.587647 55.522897 83.2421175 65.1773676 38 65.1773676 38 69.6874852 83.2421175 69.6874852 73.587647 79.3419558 76.7588234 82.5836029 91.9099998 67.4324264"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
